@@ -1,8 +1,8 @@
-**mywhy tech - Custom Software Development for Spot Robot
-**
+"""#mywhy tech - Custom Software Development for Spot Robot
+
 Welcome to the official repository of mywhy Tech, a division of mywhy. We specialize in developing custom software applications for the Spot Robot by Boston Dynamics, providing advanced automation solutions tailored to meet the specific needs of various industries.
 
-🛠 About mywhy tech
+## 🛠 About mywhy tech
 
 At mywhy tech, we focus on harnessing the full potential of the Spot Robot, a versatile and highly mobile robotic platform designed by Boston Dynamics. Spot is renowned for its ability to navigate challenging terrains, perform complex tasks, and operate autonomously in environments that are difficult or dangerous for humans. Our mission is to extend these capabilities by creating customized software applications that allow Spot to excel in specialized roles
 
